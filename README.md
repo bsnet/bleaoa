@@ -48,3 +48,9 @@ Arguments accepted by the programs can be shown with:
 
 The system running *aoareceiver* will display the AoA of the packets sent by *aoatransmitter*.
 AoA is considered wrt. the axis going through the two antennas of the receiver.
+
+## Publications
+
+The code in this repository has been used in the following publications:
+
+* M. Cominelli, P. Patras, F. Gringoli, [Dead on Arrival: An Empirical Study of The Bluetooth 5.1 Positioning System](https://dl.acm.org/doi/10.1145/3349623.3355475), *WiNTECH '19: Proceedings of the 13th International Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization*, October 2019
